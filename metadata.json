@@ -1,0 +1,7 @@
+{
+  "name": "叛逆乐团",
+  "description": "一个由AI驱动的互动乐团，会对重复的手势感到厌倦。用你的双手指挥，但要保持新鲜感，以免引发音乐叛乱。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
